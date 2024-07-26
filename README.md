@@ -174,3 +174,9 @@ plt.show()
 ![plot](./Graphs/yearly_comp_india.png)
 
 ### Analysis/Conclusion
+1. The top 5 causes of death in America from 2015 onwards typically include chronic diseases such as heart disease, cancer, chronic lower respiratory diseases, stroke, and Alzheimer's disease.
+2. In India, the leading causes of death include heart disease, chronic respiratory diseases, infections (such as tuberculosis), stroke, and neonatal disorders. The high number of deaths due to infenctions and neonatal disorders reflects challenges in public health and healthcare access. 3
+3. Afghanistan's top 5 causes of death are neonatal disorders, lower respiratory infections, diarrheal diseases, heart disease, and stroke, also reflecting poor healthcare.
+
+America has a higher burden of chronic diseases and cancers, reflecting lifestyle (fatty foods) and aging, while India and Afghanistan face challenges with diseases, reflecting disparities in healthcare access. This indicates public health challenges in these countries.    
+
